@@ -1,19 +1,19 @@
 body{
     background-color:rgb(230, 230, 211);
-    width: 98%;
+    width: 100%;
     height: auto;
     margin: 0 auto;
 }
 .facebook{
     color: #336be6;
-    font-size: 6em;
+    font-size: 4em;
     float: left;
     margin-top: 15%;
     margin-left: 4%;
 }
 .text{
     color: black;
-    font-size: 50px;
+    font-size: 40px;
 }
 .form{
    background-color: white;
