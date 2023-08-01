@@ -9,11 +9,11 @@ body{
     font-size: 6em;
     float: left;
     margin-top: 15%;
-    margin-left: 4%;
+    margin-left: 0;
 }
 .text{
     color: black;
-    font-size: 40px;
+    font-size: 40px;;
 }
 .form{
    background-color: white;
@@ -67,8 +67,6 @@ h4{
     text-align: center;
 }
 div > p{
-    margin: 0px;
-    font-size: large;
     text-align: left;
-    align-items: left;
+    font-size: small;
 }
