@@ -12,7 +12,7 @@ div.reg{
     background-color:rgba(99, 204, 29, 0.623);
     border: 2px solid black;
     border-radius: 20px;
-    width: 30%;
+    width: fit-content;
     height: 600px;
     text-align: center;
     margin: 0 auto;
@@ -37,7 +37,7 @@ input[type=radio] {
 select,button{
     width: 410px;
     height: 40px;
-    margin: 10px;
+   margin-top: 20px ;
     font-size: 20px;
 }
 button{
