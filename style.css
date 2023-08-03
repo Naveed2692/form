@@ -66,9 +66,3 @@ hr{
 h4{
     text-align: center;
 }
-div > p > a{
-    text-align: left;
-    font-size: 25px;
-    color: green;
-    margin: 0;
-}
